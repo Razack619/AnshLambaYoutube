@@ -1,4 +1,4 @@
-OrderID,Customer,Item,Quantity,Price,OrderDate
+OrderID,CustomerID,Item,Quantity,Price,OrderDate
 O1001,Customer_4,Monitor,3,1901.7,2025-08-01 11:11:00
 O1002,Customer_2,Keyboard,1,1314.52,2025-08-01 01:10:00
 O1003,Customer_2,Monitor,1,498.44,2025-08-01 02:27:00
